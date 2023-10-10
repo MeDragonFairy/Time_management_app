@@ -1,0 +1,31 @@
+src/
+  assets/
+    images/
+    fonts/
+  components/
+    Header.js
+    TaskList.js
+    TaskItem.js
+    ...
+  pages/
+    Home.js
+    Profile.js
+    ...
+  utils/
+    api.js
+    helpers.js
+  styles/
+    main.css
+    components.css
+  App.js
+  index.js
+public/
+  index.html
+  favicon.ico
+node_modules/
+package.json
+README.md
+.gitignore
+.eslintrc.js
+webpack.config.js
+LICENSE
